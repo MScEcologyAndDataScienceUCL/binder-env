@@ -10,6 +10,8 @@ reproducible environments in which students can learn through coding.
 
 To run the environment, click the "launch binder" button.
 
+[![launch binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MScEcologyAndDataScienceUCL/binder-env/main)
+
 ## Libraries and Dependencies
 
 * Add libraries in the `apt.txt` file.
