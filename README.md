@@ -12,6 +12,16 @@ To run the environment, click the "launch binder" button.
 
 [![launch binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MScEcologyAndDataScienceUCL/binder-env/main)
 
+## Languages
+
+Both Python and R are available in the environment. The R and Python versions are specified in
+the `runtime.txt` file
+
+```
+python-3.10
+r-2022-10-31
+```
+
 ## Libraries and Dependencies
 
 * Add libraries in the `apt.txt` file.
