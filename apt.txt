@@ -1,0 +1,8 @@
+libgdal-dev
+libgeos-dev
+libproj-dev
+libfftw3-dev
+libicu-dev
+libsndfile1-dev
+libqt5core5a
+libudunits2-dev
