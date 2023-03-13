@@ -1,6 +1,7 @@
 install.packages("MetBrewer")
 install.packages("dplyr")
 install.packages("factoextra")
+install.packages("geoR")
 install.packages("ggplot2")
 install.packages("gratia")
 install.packages("lme4")
