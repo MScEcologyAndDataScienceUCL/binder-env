@@ -17,5 +17,5 @@ librosa
 tqdm
 tensorflow
 tensorflow_hub
+batdetect2
 git+https://github.com/MScEcologyAndDataScienceUCL/BIOS0032_AI4Environment@main
-git+https://github.com/mbsantiago/batdetect2@main
